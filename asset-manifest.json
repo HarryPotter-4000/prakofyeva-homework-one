@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prakofyeva-homework-one/static/css/main.75f98146.css",
+    "main.js": "/prakofyeva-homework-one/static/js/main.26629dd9.js",
+    "index.html": "/prakofyeva-homework-one/index.html",
+    "main.75f98146.css.map": "/prakofyeva-homework-one/static/css/main.75f98146.css.map",
+    "main.26629dd9.js.map": "/prakofyeva-homework-one/static/js/main.26629dd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75f98146.css",
+    "static/js/main.26629dd9.js"
+  ]
+}
